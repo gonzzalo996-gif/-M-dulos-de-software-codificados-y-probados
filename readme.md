@@ -1,6 +1,6 @@
-#GeStore - Sistema web para la gestión de tiendas
+# GeStore - Sistema web para la gestión de tiendas
 
-##Descripción del proyecto
+## Descripción del proyecto
 
 GeStore es un proyecto académico enfocado en el desarrollo de un sistema web para la gestión de una tienda, sirviendo para administrar procesos básicos del negocio mediante tecnologías web basadas en Java.
 
@@ -8,7 +8,7 @@ El sistema incluye autenticación de credenciales de usuarios, manejo de sesione
 
 Este proyecto fue desarrollado aplicando tecnologías backend orientadas al desarollo de aplicaciones empresariales web.
 
-#Objetivo del proyecto
+# Objetivo del proyecto
 
 Desarrollar un sistema web funcional para la gestión de tiendas, aplicando conceptos de:
 
@@ -19,7 +19,7 @@ Desarrollar un sistema web funcional para la gestión de tiendas, aplicando conc
 - Manejo de sesiones
 - Control de versiones
 
-#Tecnologías utilizadas
+# Tecnologías utilizadas
 
 - Java
 - JSP
@@ -32,9 +32,9 @@ Desarrollar un sistema web funcional para la gestión de tiendas, aplicando conc
 - Apache Tomcat
 - Git y GitHub
 
-#Funcionalidades implementadas
+# Funcionalidades implementadas
 
-##Autenticación de usuarios
+## Autenticación de usuarios
 
 El sistema permite:
 
@@ -43,7 +43,7 @@ El sistema permite:
 - Restricción de acceso
 - Manejo de sesiones de usuario
 
-##Gestión administrativa
+## Gestión administrativa
 
 El sistema incorpora módulos para:
 
@@ -51,7 +51,7 @@ El sistema incorpora módulos para:
 - Navegación entre módulos
 - Gestión interna del sistema
 
-##Gestión de sesiones
+## Gestión de sesiones
 
 Implementación de:
 
@@ -59,9 +59,9 @@ Implementación de:
 - Persistencia temporal de usuario autenticado
 - Cierre de sesión
 
-#Estructura del proyecto
+# Estructura del proyecto
 
-##Código Java
+## Código Java
 
 Contiene: 
 
@@ -73,7 +73,7 @@ Ubicación:
 
 src/main/java/
 
-##Recursos web
+## Recursos web
 
 Contiene:
 
@@ -84,9 +84,9 @@ Ubicación:
 
 src/main/webapp
 
-#Evidencias de cumplimiento de requisitos
+# Evidencias de cumplimiento de requisitos
 
-##Formularios HTML
+## Formularios HTML
 
 Implementados mediante formularios web para la captura de información del usuario.
 
@@ -100,7 +100,7 @@ Funciones:
 - Captura de contraseña
 - Envío de información al servidor
 
-##Servlets implementados
+## Servlets implementados
 
 Servlet principal:
 
@@ -113,7 +113,7 @@ Funciones:
 - Manejo de sesiones
 - Redirecciones
 
-##Implementación método POST
+## Implementación método POST
 
 Implementación mediante:
 
@@ -124,7 +124,7 @@ Utilizado en:
 - Recepción de credenciales
 - Procesamiento de autenticación
 
-##Implementación método GET
+## Implementación método GET
 
 Implementación mediante:
 
@@ -135,7 +135,7 @@ Utilizado para:
 - Controlar accesos directos
 - Responder solicitudes GET
 
-##Páginas JSP implementadas
+## Páginas JSP implementadas
 
 - index.jsp
 - administracion.jsp
@@ -143,7 +143,7 @@ Utilizado para:
 - productos.jsp
 - logout.jsp
 
-##Persistencia de datos
+## Persistencia de datos
 
 Implementada mediante:
 
@@ -155,7 +155,7 @@ Base de datos utilizada:
 
 jsp_adso_15
 
-#Pruebas realizadas
+# Pruebas realizadas
 
 Se realizaron pruebas sobre:
 
@@ -166,7 +166,7 @@ Se realizaron pruebas sobre:
 - Comunicación formulario -> Servlet -> JSP
 - Conexión a base de datos
 
-#Ejecución del proyecto
+# Ejecución del proyecto
 
 1. Clonar repositorio
 2. Importar proyecto Maven
@@ -175,11 +175,11 @@ Se realizaron pruebas sobre:
 5. Ejecutar aplicación
 6. Acceder desde un navegador
 
-#Control de versiones
+# Control de versiones
 
 El proyecto utiliza Git y GitHub para almacenamiento, seguimiento y control de cambios en el proyecto.
 
-#Autor
+# Autor
 
 Gonzalo Salcedo
 Proyecto web - GeStore
