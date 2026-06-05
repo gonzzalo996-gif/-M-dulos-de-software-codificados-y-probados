@@ -110,11 +110,11 @@
 
 <!-- NAVBAR -->
 <div class="navbar">
-    <div>🛒 Tienda Abarrotes</div>
+    <div>🛒 GeStore </div>
 
     <div>
         <a href="dashboard.jsp">🏠 Inicio</a>
-        <a href="administrador.jsp">👤 Usuarios</a>
+        <a href="administracion.jsp">👤 Usuarios</a>
         <a href="productos.jsp">📦 Productos</a>
         <a class="logout" href="logout.jsp">🚪 Salir</a>
     </div>

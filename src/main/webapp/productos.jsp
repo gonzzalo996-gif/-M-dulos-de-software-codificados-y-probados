@@ -45,7 +45,7 @@
 </style>
 
 <div class="navbar">
-    <div>🛒 Tienda Abarrotes</div>
+    <div>🛒 GeStore</div>
 
     <div>
         <a href="dashboard.jsp">🏠 Inicio</a>

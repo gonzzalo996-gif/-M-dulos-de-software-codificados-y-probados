@@ -81,7 +81,7 @@
 
 <div class="login-box">
 
-    <div class="title">🛒 Tienda Abarrotes</div>
+    <div class="title">🛒 GeStore</div>
     <div class="subtitle">Acceso al sistema administrativo</div>
 
     <%

@@ -142,7 +142,7 @@
 
 <!-- NAVBAR -->
 <div class="navbar">
-    <div>🛒 Tienda Abarrotes</div>
+    <div>🛒 Gestore</div>
 
     <div>
         <a href="dashboard.jsp">🏠 Inicio</a>
