@@ -15,7 +15,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 @WebServlet("/ingresar")
-public class ingresar extends HttpServlet {
+public class IngresarServlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
